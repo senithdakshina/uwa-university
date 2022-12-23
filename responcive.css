@@ -1,9 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Inter Tight', sans-serif;
-	font-family: "Times New Roman", Times, serif;
-   
+    /*font-family: 'Inter Tight', sans-serif; */
+	font-family: 'system-ui';
 	
 }
 
@@ -104,6 +103,7 @@ nav img{
     background: transparent;
     position: relative;
     cursor: pointer;
+	border-radius:10px;
 
 
 }
@@ -479,4 +479,8 @@ h3{
   .footer-col{
     width: 100%;
 }
+}
+
+.reviw-text{
+	font-family: cursive;
 }
